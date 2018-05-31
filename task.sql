@@ -1,1 +1,0 @@
-mysql -e "create table test;" -u root -p test database > task.sql
