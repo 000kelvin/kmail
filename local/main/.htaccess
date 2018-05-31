@@ -1,0 +1,56 @@
+# Prevent direct access to config file
+
+# Prevent direct access to .htaccess files
+#<Files .htaccess>
+#	Deny from all
+#</Files>
+
+# Prevent direct access to certain file types
+<FilesMatch "\.(tpl|log|xml)$">
+	Deny from all
+</FilesMatch>
+
+# Prevent listing the files in directories
+Options -Indexes
+
+#RewriteEngine On
+#RewriteBase /
+#
+##RewriteRule ^\.*$ /kmail/local/main.php
+#RewriteRule ^main/(.*)\.html$/main.php?id=$1[L]
+
+# Remove the # below if your server allows it
+# OPTIONS -Indexes
+
+# Remove php handlers
+#Options +FollowSymlinks
+#RewriteEngine on
+#RewriteRule ^2016/([a-z]+) /2016/index.php?title =$1
+#
+#<IfModule mod_rewrite.c>
+#    <IfModule mod_negotiation.c>
+#        Options -MultiViews
+#    </IfModule>
+#
+#    RewriteEngine On
+#
+#    # Redirect Trailing Slashes If Not A Folder...
+#    RewriteCond %{REQUEST_FILENAME} !-d
+#    RewriteRule ^(.*)/$ /$1 [L,R=301]
+#
+#    # Handle Front Controller...
+#    RewriteCond %{REQUEST_FILENAME} !-d
+#    RewriteCond %{REQUEST_FILENAME} !-f
+#    RewriteRule ^ index.php [L]
+#</IfModule>
+
+#FallbackResource index.php
+#<IfModule mod_rewrite.c >
+#
+#Options -MultiViews
+#
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^ index.php[QSA,L]
+#
+#</IfModule>

@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.reported{
+	margin-top:30px;
+}
+.reporting{
+	margin-top:50px;
+}
+.contact{
+	margin-left:10px;
+}
+.ca{
+	font-weight:bolder;
+	font-size:15px;
+}
+.ca1 .ca2 .ca3 .ca4{
+	font-size:14px;
+	text-align:center;
+}

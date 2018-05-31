@@ -1,0 +1,16 @@
+[18-Dec-2016 09:31:37 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kely/public_html/panel/profile/index.php on line 144
+[18-Dec-2016 09:31:37 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 144
+[18-Dec-2016 09:33:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kely/public_html/panel/profile/index.php on line 243
+[18-Dec-2016 09:33:25 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 243
+[18-Dec-2016 09:35:12 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:35:12 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:37:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kely_international'@'localhost' (using password: YES) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:37:18 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:37:33 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kely_international'@'localhost' (using password: YES) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:37:33 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:39:42 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kely_international'@'localhost' (using password: YES) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:39:42 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:44:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kely_internation'@'localhost' (using password: YES) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:44:38 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:44:45 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kely_internation'@'localhost' (using password: YES) in /home/kely/public_html/panel/profile/index.php on line 317
+[18-Dec-2016 09:44:45 America/Chicago] PHP Fatal error:   in /home/kely/public_html/panel/profile/index.php on line 317
