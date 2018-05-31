@@ -11,5 +11,4 @@ Built with Kmail
 
 If you are using Kmail please share your project URL or name with us to inspire other people to use Kmail.
 
-<b>Installation</b>
 
