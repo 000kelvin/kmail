@@ -13,6 +13,3 @@ If you are using Kmail please share your project URL or name with us to inspire 
 
 <b>Installation</b>
 
-kmail is a php package so you can install it via composer. Run this command in your terminal from your project directory.
-
-<code> $ composer require 000kelvin/kmail</code>
