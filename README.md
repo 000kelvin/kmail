@@ -4,7 +4,7 @@ Kmail is a php based news website system with admin and user interface. You can 
 <b>Feedback</b>
 
 If you use kmail, please share your experience with me. It will make the project better.
-It is important to note tht it is still in it's development
+It is important to note that it is still in it's development
 
 Give us your feedback
 Built with Kmail
